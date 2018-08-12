@@ -30,5 +30,13 @@ Illustrative example:
 
 `command example`
 
+## Header 2.4
+Image embedding
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
+
+
 More details about formatting syntax:
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
